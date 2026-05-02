@@ -13,12 +13,19 @@ annual NOI improvement opportunity.
 - **Deliverable:** 40-minute executive presentation with transformation roadmap
 
 ## Tech Stack
-- Python (pandas, sqlalchemy)
-- PostgreSQL (local database)
-- SQL (window functions, CTEs, data modeling)
-- PowerPoint (executive presentation)
+- **Python** (pandas, sqlalchemy)
+- **PostgreSQL** (local database)
+- **SQL** (window functions, CTEs, data modeling)
+- **PowerPoint** (executive presentation)
 
 ## Key Findings
 - Property 3 (P03) outperforms portfolio by 7.7 NOI margin points (36.3% vs 28.6%)
 - Property 4 (P04) underperforms by 14.1 points (14.5% NOI margin)
 - $243K annual opportunity bringing P04 to portfolio average performance
+
+## 5 Business Questions to Answer
+1. Which property demonstrates the strongest operational performance? Why?
+2. What are the biggest risks to portfolio performance?
+3. What’s the biggest near-term opportunity?
+4. When should investors look at physical vs economic occupancy?
+5. What reporting model would best serve Asset Management?
