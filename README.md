@@ -1,5 +1,5 @@
-# Business_Case_Study
-Portfolio Analytics Case Study
+# Business Case Study
+Portfolio analytics case study for a local manufactured housing company.
 
 ## Project Overview
 Comprehensive analysis of manufactured housing portfolio identifying $243K 
