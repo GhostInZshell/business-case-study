@@ -2,7 +2,7 @@
 Portfolio analytics case study for a local manufactured housing company.
 
 ## Project Overview
-Comprehensive analysis of manufactured housing portfolio identifying $243K 
+Comprehensive analysis of 3 months of manufactured housing portfolio data, identifying $243K 
 annual NOI improvement opportunity.
 
 ## Technical Approach
@@ -19,6 +19,6 @@ annual NOI improvement opportunity.
 - PowerPoint (executive presentation)
 
 ## Key Findings
-- P03 outperforms portfolio by 7.7 NOI margin points (36.3% vs 28.6%)
-- P04 underperforms by 14.1 points (14.5% NOI margin)
+- Property 3 (P03) outperforms portfolio by 7.7 NOI margin points (36.3% vs 28.6%)
+- Property 4 (P04) underperforms by 14.1 points (14.5% NOI margin)
 - $243K annual opportunity bringing P04 to portfolio average performance
